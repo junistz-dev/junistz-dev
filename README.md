@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask anything about me!
 - 📫 How to reach me: DM to my instagram
-- 😄 Pronouns: 
+- 😄 Pronouns: There is opportunity always.
