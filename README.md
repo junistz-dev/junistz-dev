@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently studying in Monash University Malaysia campus.
+- 🔭 I’m currently studying in University, IT
 - 🌱 I’m currently learning computer science in Data Science.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
