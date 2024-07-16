@@ -8,7 +8,7 @@
 <ul>
   
   <li>I am in my final year of studying for a Bachelor of Computer Science in Data Science at Monash University Malaysia.</li>
-  <li> I am interested in data analysis, visualization, and modeling. It spans deep reinforcement learning from Data Analysis, Data Visualization, Data Modeling and algorithms, where I am constantly exploring and studying about these kind of knowledges.</li>
+  <li> I am interested in data science. It spans deep reinforcement learning from Data Analysis, Data Visualization, Data Modeling and algorithms, where I am constantly exploring and studying about these kind of knowledges.</li>
 </ul>
 
 ## Contact Me
