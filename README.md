@@ -11,15 +11,24 @@
   <li> I am interested in data analysis, visualization, and modeling. It spans deep reinforcement learning from Data Analysis, Data Visualization, Data Modeling and algorithms, where I am constantly exploring and studying about these kind of knowledges.</li>
 </ul>
 
-<h1>Experiences</h1>
+## Contact Me
+- [LinkedIn](www.linkedin.com/in/junistz)
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" height="40" alt="python logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="40" alt="r logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" height="40" alt="google cloud logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" height="40" alt="apache hadoop logo"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo" />
-</div>
+## Skills
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![R Studio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white&style=for-the-badge)
+![SQL Oracle](https://img.shields.io/badge/-Oracle_SQL-F80000?logo=oracle&logoColor=white&style=for-the-badge)
+![SQL Developer](https://img.shields.io/badge/-SQL_Developer-4479A1?logo=sql&logoColor=white&style=for-the-badge)
+<!-- Add more badges as needed -->
+
+## Experiences
+- Secretary, [GDSC Monash University Malaysia](https://gdsc.community.dev/monash-university-malaysia/) (2023-2024) <br>
+
+## Education
+- Bachelor of Computer Science in Data Science.
+
+## Interests
+In my free time, I enjoy Playing the Piano and Traveling the World.
+
