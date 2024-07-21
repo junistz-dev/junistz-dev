@@ -1,11 +1,14 @@
-<!-- pika pika -->
+<img src="./assets/8bitbackground.gif" alt="banner">
 <div align="center">
-  <img height="100" src="https://media.giphy.com/media/5hvFP4LH0rN6lFQNSD/giphy.gif"/>
+    <h1 align="left">June Jin</h1>
+    <img align="right" width="180px" height="180px" src="./assets/luffy.gif" loop="infinite"/>
 </div>
 
-<h1>Nice to meet you, I am June from South Korea </h1>
+**`Data Science Lover [Undergraduate Student|South Korea|ENTJ]`**
 
-<ul>
+<p style='text-align: justify;'>
+Welcome to my GitHub profile, I'm June! As a highly motivated computer science student, I am deeply committed to pursuing a career in Data Science/Data Analysis.
+</p>
   
   <li>I am in my final year of studying for a Bachelor of Computer Science in Data Science at Monash University Malaysia.</li>
   <li> I am interested in data science. It spans deep reinforcement learning from Data Analysis, Data Visualization, Data Modeling and algorithms, where I am constantly exploring and studying about these kind of knowledges.</li>
