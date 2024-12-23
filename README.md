@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi, I’m @Junistz-dev<br>👀 I’m interested in data analytics, data engineering, and data structures/algorithms.<br>🌱 I’m currently learning Data Science in Computer Science at Monash University. Final year student.<br>💞️ I’m looking to collaborate on any projects that are feasible for a Year 3 CS Student.<br>📫 
+👋 Hi, I’m @Junistz-dev<br>
+👀 I’m interested in data analytics, data engineering, and data structures/algorithms.<br>
+🌱 I’m currently learning Data Science in Computer Science at Monash University. Final year student.<br>
+💞️ I’m looking to collaborate on any projects that are feasible for a Year 3 CS Student.<br>
+📫 I'm working in Sunway Property, data science internship.
 
 
 # 💻 Tech Stack:
