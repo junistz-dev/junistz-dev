@@ -1,37 +1,42 @@
-<img src="./assets/8bitbackground.gif" alt="banner">
-<div align="center">
-    <h1 align="left">June Jin</h1>
-    <img align="right" width="180px" height="180px" src="./assets/luffy.gif" loop="infinite"/>
-</div>
+# 💫 About Me:
+👋 Hi, I’m @Junistz-dev<br>👀 I’m interested in data analytics, data engineering, and data structures/algorithms.<br>🌱 I’m currently learning Data Science in Computer Science at Monash University. Final year student.<br>💞️ I’m looking to collaborate on any projects that are feasible for a Year 3 CS Student.<br>📫 
 
-**`Data Science Lover [Undergraduate Student|South Korea|ENTJ]`**
 
-<p style='text-align: justify;'>
-Welcome to my GitHub profile, I'm June! As a highly motivated computer science student, I am deeply committed to pursuing a career in Data Science/Data Analysis.
-</p>
-  
-  <li>I am in my final year of studying for a Bachelor of Computer Science in Data Science at Monash University Malaysia.</li>
-  <li> I am interested in data science. It spans deep reinforcement learning from Data Analysis, Data Visualization, Data Modeling and algorithms, where I am constantly exploring and studying about these kind of knowledges.</li>
-</ul>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dhirennn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dhirennn&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhirennn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Contact Me
-- [LinkedIn](www.linkedin.com/in/junistz)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Dhirennn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## Skills
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![R Studio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white&style=for-the-badge)
-![SQL Oracle](https://img.shields.io/badge/-Oracle_SQL-F80000?logo=oracle&logoColor=white&style=for-the-badge)
-![SQL Developer](https://img.shields.io/badge/-SQL_Developer-4479A1?logo=sql&logoColor=white&style=for-the-badge)
-<!-- Add more badges as needed -->
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=Dhirennn_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-## Experiences
-- Secretary, [GDSC Monash University Malaysia](https://gdsc.community.dev/monash-university-malaysia/) (2023-2024) <br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Education
-- Bachelor of Computer Science in Data Science.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=junistz-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## Interests
+---
+[![](https://visitcount.itsvg.in/api?id=junistz-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dhirennn) 
 In my free time, I enjoy Playing the Piano and Traveling the World.
 
